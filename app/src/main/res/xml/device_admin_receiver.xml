@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<device-admin xmlns:android="http://schemas.android.com/apk/res/android">
+    <uses-policies>
+        <limit-password />
+        <watch-login />
+    </uses-policies>
+</device-admin>
+
+<!--
+<device-admin xmlns:android="http://schemas.android.com/apk/res/android">
+<uses-policies>
+    <policy android:name="limit-password" />
+    <policy android:name="watch-login" />
+    <policy android:name="reset-password" />
+    <policy android:name="force-lock" />
+    <policy android:name="wipe-data" />
+    <policy android:name="expire-password" />
+    <policy android:name="encrypted-storage" />
+    <policy android:name="disable-camera" />
+    <policy android:name="disable-keyguard-features" />
+</uses-policies>
+</device-admin>
+-->

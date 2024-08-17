@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fdroid>
+    <repository>
+        <name>Your Private Repo Name</name>
+        <url>https://fdroid.leadwire.io/fdroid/repo/</url>
+        <fingerprint>YOUR_REPO_FINGERPRINT</fingerprint>
+    </repository>
+</fdroid>

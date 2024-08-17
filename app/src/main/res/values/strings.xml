@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DeviceGuard</string>
+    <string name="accessibility_service_description">DeviceGuard Accessibility Service helps protect your device by monitoring and restricting access to settings across all apps.</string>
+</resources>
